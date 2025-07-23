@@ -7,7 +7,6 @@ Full Stack Developer | Data Specialist | CyberSecurity Analyst
 I am passionate about technology and teaching.
 
 * 🌍  I'm based in Georgia, USA
-* ✉️  You can contact me at [kenkwoelizabeth78@gmail.com](mailto:kenkwoelizabeth78@gmail.com)
 
 ### Skills
 
