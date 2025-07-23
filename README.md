@@ -1,7 +1,7 @@
 Hi 👋 My name is Elizabeth Kenkwo
 =================================
 
-Full Stack Developer | Data Enthusiast
+Full Stack Developer | Data Specialist | CyberSecurity Analyst
 --------------------------------------
 
 I am passionate about technology and teaching.
