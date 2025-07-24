@@ -1,12 +1,12 @@
-                                                                                                                  Hi 👋 My name is Elizabeth Kenkwo
-                                                                                                                  =================================
+                         Hi 👋 My name is Elizabeth Kenkwo
+                         =================================
 
-                                                                                                    Full Stack Developer | Data Specialist | CyberSecurity Analyst
-                                                                                                                --------------------------------------
+                Full Stack Developer | Data Specialist | CyberSecurity Analyst
+                        --------------------------------------
 
-                                                                                                        I am passionate about technology,data and teaching.
+                  I am passionate about technology,data and teaching.
 
-                                                                                                            🌍  I'm based in Georgia, USA
+                   🌍  I'm based in Georgia, USA
 
 ### Skills
 
