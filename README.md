@@ -1,7 +1,7 @@
 Hi 👋 My name is Elizabeth Kenkwo
 =================================
 
-Full Stack Developer | Data Specialist | CyberSecurity Analyst
+Full Stack Developer | Data Specialist | CyberSecurity Professional
 --------------------------------------
 🔐 Hi, I’m Elizabeth!
 I’m a cybersecurity and cloud professional passionate about building secure, scalable systems and improving visibility across environments. With hands-on experience in security operations, identity and access management (IAM), vulnerability management, and incident response, I help bridge technical controls with risk-aware business outcomes.
