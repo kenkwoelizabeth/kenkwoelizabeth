@@ -3,10 +3,20 @@ Hi 👋 My name is Elizabeth Kenkwo
 
 Full Stack Developer | Data Specialist | CyberSecurity Analyst
 --------------------------------------
+🔐 Hi, I’m Elizabeth!
+I’m a cybersecurity and cloud professional passionate about building secure, scalable systems and improving visibility across environments. With hands-on experience in security operations, identity and access management (IAM), vulnerability management, and incident response, I help bridge technical controls with risk-aware business outcomes.
 
-I am passionate about technology,data and teaching.
+🛡️ My core strengths include:
 
-🌍  I'm based in Georgia, USA
+Identity & Access Management (Active Directory, Azure AD/Entra ID, Okta, SSO/MFA)
+Threat detection & response using SIEM (Splunk, Microsoft Sentinel) and EDR (SentinelOne)
+Vulnerability assessment & remediation
+Cloud security across AWS and Azure
+Automation with Python, PowerShell, and security analytics
+
+📊 I enjoy turning data into insights, automating workflows, and building tools that make environments more secure and resilient. I am continuously leveling up in AI-powered security, secure architecture, and cloud-native defense strategies.
+
+🚀 I’m driven by curiosity, continuous learning, and helping others understand complex security concepts. Let’s build secure systems and meaningful solutions together!
 
 ### Skills
 
