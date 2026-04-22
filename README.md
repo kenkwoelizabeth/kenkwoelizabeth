@@ -1,21 +1,30 @@
-Hi 👋 My name is Elizabeth Kenkwo
-=================================
-
-Full Stack Developer | Data Specialist | CyberSecurity Professional
---------------------------------------
 🔐 Hi, I’m Elizabeth!
-I’m a cybersecurity and cloud professional passionate about building secure, scalable systems and improving visibility across environments. With hands-on experience in security operations, identity and access management (IAM), vulnerability management, and incident response, I help bridge technical controls with risk-aware business outcomes.
 
-🛡️ My core strengths include:
-*Identity & Access Management (Active Directory, Azure AD/Entra ID, Okta, SSO/MFA)
-*Threat detection & response using SIEM (Splunk, Microsoft Sentinel) and EDR (SentinelOne)
-*Vulnerability assessment & remediation
-*Cloud security across AWS and Azure
-*Automation with Python, PowerShell, and security analytics
+Cybersecurity and cloud professional focused on Identity & Access Management (IAM), Data Security, and Security Automation. I build secure, scalable systems while improving visibility, risk posture, and operational efficiency across enterprise environments.
 
-📊 I enjoy turning data into insights, automating workflows, and building tools that make environments more secure and resilient. I am continuously leveling up in AI-powered security, secure architecture, and cloud-native defense strategies.
+I have hands-on experience managing enterprise security platforms and multi-tenant environments, aligning security controls with industry frameworks like NIST 800-53.
 
-🚀 I’m driven by curiosity, continuous learning, and helping others understand complex security concepts. Let’s build secure systems and meaningful solutions together!
+#🛡️ Core Expertise
+IAM & Identity Security: Active Directory, Azure AD (Entra ID), Okta, SSO, MFA, RBAC, lifecycle (JML) management
+Platform & Tenant Management: Administration of IAM, security, and SaaS platforms across cloud and hybrid environments
+Threat Detection & Response: SIEM (Splunk, Microsoft Sentinel), EDR (SentinelOne), incident investigation
+Vulnerability Management: Risk prioritization, remediation, and exposure reduction
+Cloud Security: AWS & Azure security controls, IAM, monitoring, and access governance
+Automation & Scripting: Python, PowerShell, APIs, security workflow automation
+Compliance & Governance: NIST 800-53, SOX, HIPAA, audit readiness
+Data & Analytics: SQL, Power BI, Excel for security insights and reporting
+#📊 What I Do
+Automate IAM workflows and security processes
+Manage and secure enterprise platforms and tenant environments
+Turn security data into actionable insights
+Strengthen Zero Trust and identity-driven security models
+#🚀 Currently Focused On
+DevSecOps & cloud-native security
+AI-driven security and automation
+Secure architecture & identity-centric design
+🤝 Let’s Connect
+
+I’m passionate about solving security challenges, simplifying complex systems, and building secure solutions that scale.
 
 ### Skills
 <p align="left">
