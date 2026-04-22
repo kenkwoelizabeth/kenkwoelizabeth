@@ -4,7 +4,7 @@ Cybersecurity and cloud professional focused on Identity & Access Management (IA
 
 I have hands-on experience managing enterprise security platforms and multi-tenant environments, aligning security controls with industry frameworks like NIST 800-53.
 
-#3🛡️ Core Expertise
+🛡️ Core Expertise
 IAM & Identity Security: Active Directory, Azure AD (Entra ID), Okta, SSO, MFA, RBAC, lifecycle (JML) management
 Platform & Tenant Management: Administration of IAM, security, and SaaS platforms across cloud and hybrid environments
 Threat Detection & Response: SIEM (Splunk, Microsoft Sentinel), EDR (SentinelOne), incident investigation
@@ -13,12 +13,14 @@ Cloud Security: AWS & Azure security controls, IAM, monitoring, and access gover
 Automation & Scripting: Python, PowerShell, APIs, security workflow automation
 Compliance & Governance: NIST 800-53, SOX, HIPAA, audit readiness
 Data & Analytics: SQL, Power BI, Excel for security insights and reporting
-##📊 What I Do
+
+📊 What I Do
 Automate IAM workflows and security processes
 Manage and secure enterprise platforms and tenant environments
 Turn security data into actionable insights
 Strengthen Zero Trust and identity-driven security models
-##🚀 Currently Focused On
+
+🚀 Currently Focused On
 DevSecOps & cloud-native security
 AI-driven security and automation
 Secure architecture & identity-centric design
