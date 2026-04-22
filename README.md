@@ -1,6 +1,6 @@
 ## 🔐 Hi, I’m Elizabeth!
 
-I’m a cybersecurity and cloud professional focused on **Identity & Access Management (IAM)**, **data security**, and **security automation**. I help build secure, scalable systems while improving visibility, risk posture, and operational efficiency across enterprise environments.
+I’m a cybersecurity and cloud professional focused on **Identity & Access Management (IAM)**, **data security**,**data analytics** and **security automation**. I help build secure, scalable systems while improving visibility, risk posture, and operational efficiency across enterprise environments.
 
 I have hands-on experience managing enterprise security platforms and multi-tenant environments, aligning controls to industry frameworks like **NIST 800-53**.
 
